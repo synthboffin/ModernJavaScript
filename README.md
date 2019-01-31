@@ -1,2 +1,0 @@
-# ModernJavaScript
-Created with CodeSandbox
